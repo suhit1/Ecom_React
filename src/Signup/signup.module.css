@@ -1,0 +1,21 @@
+.container {
+  margin: 200px auto;
+  background-color: lightgray;
+  width: 450px;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: 0 0 20px 20px;
+}
+
+.input1 {
+  width: 400px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.btn {
+  width: 200px;
+  background-color: rgb(70, 158, 158);
+}
